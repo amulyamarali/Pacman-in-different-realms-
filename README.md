@@ -1,4 +1,5 @@
-# Pacman-in-different-realms-
+# Pacman-in-different-realms
+
 This is a project in which our good old game Pacman game is updated to newer versions in which the Pacman reaches different realms  like ocean, forest and space, with super exciting features of teleportation and cheat codes. Basically, this is a game which takes you back to 90's but with fresh new experience of different realms.
 
 This is a project created for grading in sem 2 as a mini-project for the course called PROBLEM SOLVING WITH C. 
