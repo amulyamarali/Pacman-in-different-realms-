@@ -12,7 +12,7 @@ So, if the code has to be executed elsewhere except Turbo C, it is recommended t
 
 CONTRIBUTORS:
 
-Amulya Marali:https://github.com/amulyamarali 
+Akshatha MK:https://github.com/Akshathamk-123 
 
 Aishwarya L Patil:https://github.com/AishwaryaLPatil?tab=repositories
 
